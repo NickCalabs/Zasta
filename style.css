@@ -1,0 +1,21 @@
+.navbar-brand img{
+	width: 200px;
+}
+
+.navbar{
+	background-color: white;
+}
+
+.navbar li{
+	height: 100%;
+}
+
+.intro{
+	background-color: black;
+}
+
+
+#buynow{
+	background-color: #70B72D;
+	padding: 25px;
+}
