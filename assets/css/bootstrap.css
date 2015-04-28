@@ -2487,7 +2487,7 @@ fieldset[disabled] .btn-danger.active {
 
 .btn-success {
   color: #ffffff;
-  background-color: #5cb85c;
+  background-color: #70B72D;
   border-color: #4cae4c;
 }
 
@@ -2522,12 +2522,12 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #5cb85c;
+  background-color: #70B72D;
   border-color: #4cae4c;
 }
 
 .btn-success .badge {
-  color: #5cb85c;
+  color: #70B72D;
   background-color: #fff;
 }
 
@@ -5144,7 +5144,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .label-success {
-  background-color: #5cb85c;
+  background-color: #70B72D;
 }
 
 .label-success[href]:hover,
@@ -5442,7 +5442,7 @@ a.thumbnail.active {
 }
 
 .progress-bar-success {
-  background-color: #5cb85c;
+  background-color: #70B72D;
 }
 
 .progress-striped .progress-bar-success {
